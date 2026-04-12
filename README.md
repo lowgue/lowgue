@@ -22,6 +22,8 @@ modern frontends with React, Vite & TanStack
 🛠️ **System-level thinking**
 how things work under the hood
 
+<br>
+
   </td>
     <td width="50%" valign="top">
 
