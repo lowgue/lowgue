@@ -1,6 +1,6 @@
-# Hey there! I'm Luan Martins 👋
+# Hey there! 👋
 
-I'm a **Software Engineering student** in my 3rd semester at **UNIPAMPA**, passionate about building things, breaking things (on purpose 😄), and making systems run faster and safer.
+My name is Luan i'm a **Software Engineering student** in my 3rd semester at **UNIPAMPA**, passionate about building things, breaking things (on purpose 😄), and making systems run faster and safer.
 
 ---
 
@@ -43,7 +43,7 @@ I'm a **Software Engineering student** in my 3rd semester at **UNIPAMPA**, passi
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="JMeter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachejmeter/apachejmeter-original.svg">
+  <img align="center" alt="JMeter" src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white">
 </div>
 
 ---
