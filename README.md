@@ -1,6 +1,6 @@
 # Hey there!👋
 
-My name is luan and i'm a **Software Engineering student** in my 3rd semester at **UNIPAMPA**, passionate about building things, breaking things (on purpose 😄), and making systems run faster and safer.
+I’m Luan, a third-semester Software Engineering student at UNIPAMPA. I enjoy building and experimenting with systems—sometimes even breaking them on purpose—to better understand how they work and how to make them faster, more reliable, and secure.
 
 ---
 
