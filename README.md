@@ -1,70 +1,94 @@
-# Hey there!👋
+<div align="center">
 
-I’m Luan, a third-semester Software Engineering student at UNIPAMPA. I enjoy building and experimenting with systems—sometimes even breaking them on purpose—to better understand how they work and how to make them faster, more reliable, and secure.
+# Hi, I'm Luan Rodrigues 👋
+### Software Engineering Student @ UNIPAMPA
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=luanmrodrigues&style=for-the-badge&color=00b894&label=PROFILE+VIEWS" />
+&nbsp;
+<a href="https://www.instagram.com/luanm_rodrigues/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:luan.rodriguesm11@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-<table width="100%">
+## `$ whoami`
+
+```txt
+Name    : Luan Rodrigues
+Role    : Software Engineering Student — 3rd Semester @ UNIPAMPA
+Focus   : Cybersecurity · Performance Testing · Systems Thinking
+Motto   : "The best way to learn security is to think like an attacker."
+Status  : Currently breaking things on purpose to understand them better
+```
+
+---
+
+## `$ cat interests.txt`
+
+<table>
   <tr>
-    <td width="50%" valign="top">
-
-### 🔍 Interests
-
-🔐 **Cybersecurity**
-vulnerabilities, pen testing, secure systems design
-
-⚡ **Performance Testing**
-load testing, profiling, benchmarking
-
-🌐 **Web Development**
-modern frontends with React, Vite & TanStack
-
-🛠️ **System-level thinking**
-how things work under the hood
-
-<br>
-
-  </td>
-    <td width="50%" valign="top">
-
-### 🧰 Tech Stack
-
-**Languages**
-
-<img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-<img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-**Frameworks & Libraries**
-
-<img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img alt="Vite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
-
-**Tools & Infrastructure**
-
-<img alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-<img alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-<img alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-<img alt="JMeter" src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white">
-
-  </td>
+    <td width="25%" align="center">
+      <img width="48" src="https://img.icons8.com/nolan/64/security-checked.png"/><br/>
+      <b>Cybersecurity</b><br/>
+      <sub>Vulnerabilities · Pen Testing · Secure Design</sub>
+    </td>
+    <td width="25%" align="center">
+      <img width="48" src="https://img.icons8.com/nolan/64/speed.png"/><br/>
+      <b>Performance Testing</b><br/>
+      <sub>Load Testing · Profiling · Benchmarking</sub>
+    </td>
+    <td width="25%" align="center">
+      <img width="48" src="https://img.icons8.com/nolan/64/domain.png"/><br/>
+      <b>Web Development</b><br/>
+      <sub>React · Vite · TanStack</sub>
+    </td>
+    <td width="25%" align="center">
+      <img width="48" src="https://img.icons8.com/nolan/64/processor.png"/><br/>
+      <b>Systems Thinking</b><br/>
+      <sub>Under the hood · Architecture · Internals</sub>
+    </td>
   </tr>
 </table>
 
 ---
 
-## 📬 Find me
+## `$ ls tech-stack/`
 
-<a href="https://www.instagram.com/luanm_rodrigues/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="mailto:luan.rodriguesm11@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Tools & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-> *"The best way to learn security is to think like an attacker."*
+<div align="center">
+  <sub>Built with 💚 by Luan Rodrigues · Always learning, always breaking things</sub>
+</div>
