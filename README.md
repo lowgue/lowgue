@@ -23,7 +23,7 @@
 
 ```txt
 Name    : Luan Rodrigues
-Role    : Software Engineering Student — 3rd Semester @ UNIPAMPA
+Role    : Software Engineering Student — 4th Semester @ UNIPAMPA
 Focus   : Cybersecurity · Performance Testing · Systems Thinking
 Motto   : "The best way to learn security is to think like an attacker."
 Status  : Currently breaking things on purpose to understand them better
