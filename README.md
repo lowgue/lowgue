@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Luan Rodrigues 👋
+# Hi, I'm Luan Rodrigues 
 ### Software Engineering Student @ UNIPAMPA
 
 <br/>
@@ -88,5 +88,5 @@ Status  : Currently breaking things on purpose to understand them better
 ---
 
 <div align="center">
-  <sub>Built with 💚 by Luan Rodrigues · Always learning, always breaking things</sub>
+  <sub>Built  by Luan Rodrigues · Always learning</sub>
 </div>
